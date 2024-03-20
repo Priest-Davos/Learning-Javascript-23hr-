@@ -1,15 +1,8 @@
-console.log("first n natural num sum");
-let sum=0;
-let i=1;
-let num=5;
-while(i<=num){
-    sum+=i;
-    i++;
-}
-console.log(`Sum = ${sum}`)
 
 
-console.log("-------------------clone an array---------")
+
+
+console.log("----------------- clone an array -------------")
 // let arr1=["a","b","c"]
 
 // let arr2=[].concat(arr1);
